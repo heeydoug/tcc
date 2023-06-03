@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d2971ef-59bc-4568-baeb-d41116d939c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tcc-react/src/components/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-react/src/components/logout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-react/tcc-react/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/TccSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcc-spring/src/test/java/com/claridoug/tccspring/TccSpringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685819211637</updated>
       <workItem from="1685819212658" duration="9000" />
-      <workItem from="1685819255744" duration="398000" />
+      <workItem from="1685819255744" duration="1251000" />
     </task>
     <servers />
   </component>
