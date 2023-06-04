@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d2971ef-59bc-4568-baeb-d41116d939c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tcc-react/tcc-react/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/TccSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/test/java/com/claridoug/tccspring/TccSpringApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tcc-react" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,20 +26,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/doug_/Desktop/IFES/tcc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/doug_/Desktop/IFES/tcc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1685819211637</updated>
       <workItem from="1685819212658" duration="9000" />
-      <workItem from="1685819255744" duration="1251000" />
+      <workItem from="1685819255744" duration="2331000" />
+      <workItem from="1685898661467" duration="650000" />
     </task>
     <servers />
   </component>
