@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d2971ef-59bc-4568-baeb-d41116d939c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <workItem from="1685819212658" duration="9000" />
       <workItem from="1685819255744" duration="2331000" />
       <workItem from="1685898661467" duration="769000" />
-      <workItem from="1686331143309" duration="5766000" />
+      <workItem from="1686331143309" duration="6516000" />
     </task>
     <servers />
   </component>
