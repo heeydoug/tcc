@@ -1,4 +1,4 @@
-package com.claridoug.tccspring.model.entity;
+package com.claridoug.tccspring.model.enums;
 
 public enum EstadoArtigo {
     ABERTO,

@@ -1,5 +1,6 @@
 package com.claridoug.tccspring.model.entity;
 
+import com.claridoug.tccspring.model.enums.EstadoArtigo;
 import jakarta.persistence.*;
 
 @Entity
