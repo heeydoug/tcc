@@ -94,7 +94,7 @@ function App() {
 
   function addPermissions() {
     const folderId = '1z4gBiCQ63MALdEYW3xvMI3AX9VZgLpOL'; // ID da pasta que você deseja compartilhar
-    const email = 'cestaro70@gmail.com'; // E-mail do usuário com quem você deseja compartilhar a pasta
+    const email = 'matheusmilbratz141299@gmail.com'; // E-mail do usuário com quem você deseja compartilhar a pasta
     const role = 'reader'; // Função do usuário (writer, reader, owner, etc.)
 
     const permission = {
@@ -148,7 +148,7 @@ function App() {
 
   function removePermissions() {
     const fileId = '1z4gBiCQ63MALdEYW3xvMI3AX9VZgLpOL'; // Substitua pelo ID do arquivo ou pasta
-    const permissionId = '15446475022088138113'; // Substitua pelo ID da permissão a ser removida
+    const permissionId = '01457466587721404510'; // Substitua pelo ID da permissão a ser removida
 
     gapi.client.load('drive', 'v3', function() {
       gapi.client.drive.permissions.delete({
