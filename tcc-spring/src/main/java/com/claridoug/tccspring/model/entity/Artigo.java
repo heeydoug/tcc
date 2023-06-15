@@ -3,6 +3,8 @@ package com.claridoug.tccspring.model.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
+import java.util.List;
+
 @Entity
 @Data
 @Table(name = "artigo")
@@ -31,5 +33,8 @@ public class Artigo {
     @ManyToOne
     @JoinColumn(name = "id_redator")
     private Redator redator;
+
+    @OneToMany(mappedBy = "artigo")
+    private List<HistoricoEstado> historicoEstados;
 
 }
