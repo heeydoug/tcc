@@ -1,4 +1,4 @@
-package Exceptions;
+package com.claridoug.tccspring.Exceptions;
 
 public class RegraNegocioException extends RuntimeException {
 

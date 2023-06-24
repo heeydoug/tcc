@@ -1,6 +1,7 @@
 package com.claridoug.tccspring.model.entity;
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.util.List;
