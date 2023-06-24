@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d2971ef-59bc-4568-baeb-d41116d939c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Service/Controller/UsuarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Service/UsuarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-spring/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="8d2971ef-59bc-4568-baeb-d41116d939c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +86,7 @@
       <workItem from="1686874220929" duration="139000" />
       <workItem from="1686924091195" duration="730000" />
       <workItem from="1687371048688" duration="1305000" />
-      <workItem from="1687552168680" duration="3268000" />
+      <workItem from="1687552168680" duration="3648000" />
     </task>
     <servers />
   </component>
