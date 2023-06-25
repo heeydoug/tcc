@@ -1,11 +1,13 @@
 package com.claridoug.tccspring.Service.Implementation;
 
+import com.claridoug.tccspring.DTO.UsuarioDTO;
 import com.claridoug.tccspring.Exceptions.ErroAutenticacao;
 import com.claridoug.tccspring.Exceptions.RegraNegocioException;
 import com.claridoug.tccspring.Service.UsuarioService;
 import com.claridoug.tccspring.model.entity.Usuario;
 import com.claridoug.tccspring.repository.UsuarioRepository;
 import jakarta.transaction.Transactional;
+import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,6 +17,7 @@ import java.util.Optional;
 public class UsuarioImplementation implements UsuarioService {
 
     private UsuarioRepository repository;
+    ModelMapper modelMapper = new ModelMapper();
 
     @Autowired
     public UsuarioImplementation(UsuarioRepository repository) {
@@ -37,7 +40,8 @@ public class UsuarioImplementation implements UsuarioService {
 
     @Override
     @Transactional
-    public Usuario salvarUsuario(Usuario usuario) {
+    public Usuario salvarUsuario(UsuarioDTO usuarioDto) {
+        Usuario usuario = modelMapper.map(usuarioDto,Usuario.class);
         validarEmail(usuario.getEmail());
         return repository.save(usuario);
     }
