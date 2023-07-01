@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d2971ef-59bc-4568-baeb-d41116d939c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Controller/ArtigoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/DTO/ArtigoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Service/ArtigoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Service/Implementation/ArtigoImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/Controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/model/entity/Revisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/model/entity/Revisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/model/entity/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/model/entity/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/model/enums/EstadoArtigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tcc-spring/src/main/java/com/claridoug/tccspring/model/enums/EstadoArtigo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,8 @@
       <workItem from="1687711948211" duration="1597000" />
       <workItem from="1687714550079" duration="200000" />
       <workItem from="1687973577059" duration="3246000" />
-      <workItem from="1688062819112" duration="3904000" />
+      <workItem from="1688062819112" duration="4224000" />
+      <workItem from="1688223423162" duration="4215000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ package com.claridoug.tccspring.model.entity;
 
 import jakarta.persistence.*;
 
-import java.time.LocalDateTime;
+import java.time.LocalDate;
 
 @Entity
 public class HistoricoEstado {
@@ -11,7 +11,7 @@ public class HistoricoEstado {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     @Column(name = "data_alteracao", nullable = false)
-    private LocalDateTime dataAlteracao;
+    private LocalDate dataAlteracao = LocalDate.now();
     @Column(name = "observacao", nullable = false)
     private String observacao;
     @ManyToOne

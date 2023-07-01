@@ -1,10 +1,7 @@
 package com.claridoug.tccspring.model.entity;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.util.List;
 
@@ -12,8 +9,12 @@ import java.util.List;
 @Data
 @Table(name = "usuario")
 @NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
 @Inheritance(strategy = InheritanceType.JOINED)
-public class Usuario {
+public  abstract  class Usuario {
+
     @Id
     @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)

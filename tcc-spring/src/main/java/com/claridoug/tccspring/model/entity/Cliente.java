@@ -5,11 +5,15 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.Setter;
 
 import java.util.List;
 
 @EqualsAndHashCode(callSuper = true)
 @Entity
+@Getter
+@Setter
 @Table(name = "cliente")
 @Data
 public class Cliente extends Usuario {
@@ -18,6 +22,7 @@ public class Cliente extends Usuario {
     private List<Artigo> artigosVinculados;
 
     public Cliente() {
-        this.setTipo("cliente");
+        super();
+        super.setTipo("cliente");
     }
 }
